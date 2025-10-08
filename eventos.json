@@ -4,7 +4,7 @@
     "titulo": "AVERSARIO IESTP JVA ",
     "descripcion": "Entrada libre. Ponentes invitados, 10:00am - CAMPUS GENERAL.",
     "fecha": "2025-11-05",
-    "imagen": "imagenes/charla.jpg",
+    "imagen": "imagenes/jva-001.jpg",
     "lugar": "CAMMPUS GENERAL-NO DEFINIDO"
   },
   {
@@ -12,7 +12,8 @@
     "titulo": "SEMANA TECNICA 2025",
     "descripcion": "Los estudiantes presentaran projectos y conocimientos a lo largo de su periodo estudiando de  diferentes carreras.,AMBOS TURNOS 11:00 am 12:30 pm",
     "fecha": "2025-10-14",
-    "imagen": "imagenes/taller-python.jpg",
+    "imagen": "imagenes/jva-002.jpg",
     "lugar": "CAMPUS GENERAL"
   }
+
 ]
